@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExampleFragment</string>
+    <string name="title_activity_toolbar_tabs">ToolbarTabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_toobar_and_fab">ToobarAndFab</string>
+    <string name="title_activity_collapsing_toobar_fab">CollapsingToobarFab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_collapsing_toobar_tabs">Music</string><string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <!-- リスト表示のダイアログ -->
+    <string name="itemsAlertDialogTitle">どちらに認識結果を反映しますか</string>
+    <string name="close">閉じる</string>
+
+
+</resources>
